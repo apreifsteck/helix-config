@@ -14,6 +14,7 @@ n = "move_line_down"
 e = "move_line_up"
 C-e = "goto_next_buffer"
 C-n = "goto_previous_buffer"
+C-w = ":bc"
 
 [keys.insert.t]
 g = "normal_mode"
