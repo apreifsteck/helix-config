@@ -15,6 +15,8 @@ e = "move_line_up"
 C-e = "goto_next_buffer"
 C-n = "goto_previous_buffer"
 C-w = ":bc"
+j = "search_next"
+J = "search_prev"
 
 [keys.insert.t]
 g = "normal_mode"
